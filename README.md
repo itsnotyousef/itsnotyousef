@@ -16,7 +16,7 @@ Computer Science graduate passionate about building intelligent systems and expl
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **Languages:** Python • C++ • C#  
-**ML/AI:** PyTorch • TensorFlow • LangChain • Transformers , crewAI
+**ML/AI:** PyTorch • TensorFlow • LangChain • Transformers • crewAI
 **Tools:** Docker • Git • AWS 
 
 ## 🧠 Research
